@@ -69,6 +69,30 @@ Se pueden representar numero de -2**64 a 2**64.
 
 ![Ejercicio 1](https://github.com/Resumpre/Programacion-con-Python/issues/3#issue-464435378)
 
+![Ejercicio 2](https://github.com/Resumpre/Programacion-con-Python/issues/1#issuecomment-508613860)
+
+![Ejercicio 3](https://github.com/Resumpre/Programacion-con-Python/issues/1#issuecomment-508613956)
+
+![Ejercicio 4](https://github.com/Resumpre/Programacion-con-Python/issues/1#issuecomment-508613978)
+
+![Ejercicio 5](https://github.com/Resumpre/Programacion-con-Python/issues/1#issuecomment-508614006)
+
+![Ejercicio 6](https://github.com/Resumpre/Programacion-con-Python/issues/1#issuecomment-508614071)
+
+![Ejercicio 7](https://github.com/Resumpre/Programacion-con-Python/issues/1#issuecomment-508614087)
+
+![Ejercicio 8](https://github.com/Resumpre/Programacion-con-Python/issues/1#issuecomment-508614100)
+
+![Ejercicio 9](https://github.com/Resumpre/Programacion-con-Python/issues/1#issuecomment-508614135)
+
+![Ejercicio 10](https://github.com/Resumpre/Programacion-con-Python/issues/1#issuecomment-508614161)
+
+![Ejercicio 11](https://github.com/Resumpre/Programacion-con-Python/issues/1#issuecomment-508614188)
+
+![Ejercicio 12](https://github.com/Resumpre/Programacion-con-Python/issues/1#issuecomment-508614215)
+
+![Ejercicio 13](https://github.com/Resumpre/Programacion-con-Python/issues/1#issuecomment-508614243)
+
 ## Ciclo For... In.
 
 En python **for** se utiliza como una forma genérica de interpretar una secuencia, es decir recorrer una secuencia.
@@ -76,6 +100,15 @@ En python **for** se utiliza como una forma genérica de interpretar una secuenc
 * Ejemplo: Secuencia = ["uno", "dos","tres"]
 
 ### Ejercicios.
+
+![Ejercicio 1un2](https://github.com/Resumpre/Programacion-con-Python/issues/2#issuecomment-508614701)
+
+![Ejercicio 2un2](https://github.com/Resumpre/Programacion-con-Python/issues/2#issuecomment-508614742)
+
+![Ejercicio 3un2](https://github.com/Resumpre/Programacion-con-Python/issues/2#issuecomment-508614794)
+
+![Ejercicio 4un2](https://github.com/Resumpre/Programacion-con-Python/issues/2#issuecomment-508614829)
+
 
 ## Funciones.
 
@@ -95,6 +128,10 @@ Las funciones ayudan al programador a dividir un problema en pequeñas piezas qu
 
 ### Ejercicios.
 
+![Ejercicio1un2](https://github.com/Resumpre/Programacion-con-Python/issues/2#issuecomment-508614857)
+
+![Ejercicio2un2](https://github.com/Resumpre/Programacion-con-Python/issues/2#issuecomment-508614895)
+
 ## Gráficos.
 
 Hay muchos módulos en Python que proveen caracterizaras poderosas que podemos usar en nuestros propios programas.
@@ -102,6 +139,8 @@ Hay muchos módulos en Python que proveen caracterizaras poderosas que podemos u
 Algunos pueden enviar correos electrónicos y algunos de estos pueden extraer información de paginas de Internet. Para el manejo de gráficos usaremos en modulo que permite crear figuras y patrones. El modulo que se usara permite desarrollar nuestro pensamiento comunicacional.
 
 ### Ejercicios.
+
+![Ejercicio1un3](https://github.com/Resumpre/Programacion-con-Python/issues/3#issuecomment-508615312)
 
 ## Orientación a objetos.
 
