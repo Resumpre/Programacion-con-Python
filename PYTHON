@@ -66,7 +66,9 @@ Se pueden representar numero de -2**64 a 2**64.
 * Los números complejos son aquellos que tienen una parte imaginaria. Para definir una variable complejos se utiliza el termino(**complex**).
 
 ## Ejercicios. Unidad 1.
+
 ![Ejercicio 1](https://github.com/Resumpre/Programacion-con-Python/issues/3#issue-464435378)
+
 ## Ciclo For... In.
 
 En python **for** se utiliza como una forma genérica de interpretar una secuencia, es decir recorrer una secuencia.
